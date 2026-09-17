@@ -1,4 +1,4 @@
-# 🕌 Hisn Al-Muslim
+# Hisn Al-Muslim
 
 <p align="center">
   <img src="media/logo/app-logo.png" width="128" alt="Hisn Al-Muslim logo">
@@ -112,7 +112,7 @@ The screenshots also demonstrate how the player adapts its visual presentation t
 
 ---
 
-# 🕌 Prayer Times & Adhan
+# 🕌 Prayer Times & Islamic Youtube Channel & Jami Dua
 
 Prayer information is integrated into the daily experience rather than treated as an isolated utility.
 
@@ -137,7 +137,7 @@ The same visual set also demonstrates related Islamic content screens such as Na
 
 ---
 
-# 📿 Adhkar & Daily Remembrance
+# 📿 Adhkar & Books of Hadith
 
 Hisn Al-Muslim includes dedicated experiences for everyday remembrance.
 
@@ -162,6 +162,11 @@ The interface also provides categorized collections so users can quickly reach t
 # 📜 Hadith
 
 The application includes a dedicated Hadith experience for browsing and reading Islamic narrations.
+
+<p align="center">
+  <img src="media/screenshots/Hadith.png" width="100%" alt="Islamic lectures and video experience">
+</p>
+
 
 The showcase screens demonstrate:
 
