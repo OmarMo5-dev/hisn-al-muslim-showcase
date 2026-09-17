@@ -14,15 +14,28 @@
 
 ---
 
+## 📱 App Preview
+
+<p align="center">
+  <img src="media/screenshots/app-preview-1.png" width="32%" alt="Hisn Al-Muslim app preview 1">
+  <img src="media/screenshots/app-preview-2.png" width="32%" alt="Hisn Al-Muslim app preview 2">
+  <img src="media/screenshots/app-preview-3.png" width="32%" alt="Hisn Al-Muslim app preview 3">
+</p>
+
+<p align="center">
+  <em>A visual overview of the Hisn Al-Muslim experience.</em>
+</p>
+
+---
+
 ## 📱 About the Project
 
-**Hisn Al-Muslim** is a modern Islamic mobile application designed to bring a collection of everyday Islamic tools and educational content into one calm, accessible experience.
+**Hisn Al-Muslim** is a modern Islamic mobile application designed to bring everyday Islamic tools, Quran content, remembrance, prayer information, audio experiences, and educational material together in one calm and accessible experience.
 
-The application combines Quran reading and audio, prayer-time information, Adhkar, Hadith, Islamic educational content, Qibla guidance, Tasbeeh, reminders, and additional Islamic resources in a unified mobile experience.
+The application combines Quran reading and audio, prayer-time information, Adhkar, Hadith, Islamic educational content, Qibla guidance, Tasbeeh, reminders, Stories of the Prophets, and additional Islamic resources.
 
-> **This is the public showcase repository.**
->
-> The production source code is maintained separately in a private repository and is intentionally **not included here**. This repository contains product documentation, visual previews, project information, and selected public assets only.
+> **This is the public showcase repository.**  
+> The production source code is maintained separately in a private repository and is intentionally **not included here**. This repository is dedicated to project presentation, documentation, UI/UX previews, and selected public assets.
 
 ---
 
@@ -39,62 +52,84 @@ The application combines Quran reading and audio, prayer-time information, Adhka
 - 📚 Islamic lectures, lessons, videos, and playlists
 - 📿 Digital Tasbeeh
 - 🌙 Hijri calendar and Islamic date information
-- 🔔 Configurable daily reminders
+- 🔔 Configurable reminders
 - 🌗 Light and dark themes
-- 📚 Stories and Islamic educational content
+- 📚 Stories of the Prophets and Islamic educational content
 - ❓ Islamic questions and learning resources
 
 ---
 
-# 🏠 Home & Daily Dashboard
+# 🏠 Home Experience
 
-The home experience brings the most relevant daily information together in one place.
+The home screen brings important daily information and frequently used Islamic content into one focused dashboard.
 
-It can surface the Islamic date, prayer information, Quran progress, daily content, and educational material while keeping the navigation simple and focused.
+### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/02-home-light-dark.png" width="49%" alt="Hisn Al-Muslim home screen in dark and light themes">
-  <img src="media/screenshots/03-home-experience.png" width="49%" alt="Hisn Al-Muslim home experience">
+  <img src="media/screenshots/home-light.png" width="49%" alt="Hisn Al-Muslim home screen - Light Theme">
+  <img src="media/screenshots/home-dark.png" width="49%" alt="Hisn Al-Muslim home screen - Dark Theme">
 </p>
 
-### What these screens demonstrate
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
+</p>
 
-- **Daily Islamic context** — the home screen presents the current Islamic date and daily information.
-- **Prayer awareness** — the dashboard can surface the current/upcoming prayer and its progress.
-- **Quran continuity** — reading progress can be surfaced so users can return to where they stopped.
-- **Educational content** — lectures and selected Islamic content can be accessed directly from the home experience.
-- **Theme support** — the interface is designed for both light and dark modes.
+The home experience can surface:
+
+- Islamic date and daily information
+- Current and upcoming prayer information
+- Quran reading progress
+- Daily Islamic content
+- Quick access to major application sections
+- A consistent light/dark visual experience
 
 ---
 
 # 📖 Quran Experience
 
-The Quran section is built around two complementary experiences: **reading** and **audio**.
+The Quran experience is built around reading, browsing, and listening, with dedicated interfaces for different parts of the journey.
+
+## 📚 Quran Reading
+
+### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/04-quran-experience.png" width="100%" alt="Quran browsing and audio selection screens">
+  <img src="media/screenshots/quran-reading-light.png" width="49%" alt="Quran reading - Light Theme">
+  <img src="media/screenshots/quran-reading-dark.png" width="49%" alt="Quran reading - Dark Theme">
 </p>
 
-### Quran browsing
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
+</p>
 
-Users can browse the Quran by Surah and access individual chapters through a structured, readable interface.
+The reading experience focuses on clear Arabic text presentation, comfortable reading, navigation through verses, and interaction with Quran content.
 
-### Reading experience
+## 🎧 Quran Audio
 
-The reading screens focus on Arabic text presentation and provide controls for moving through the content, continuing from the previous position, and interacting with verses.
+### ☀️ Light Theme & 🌙 Dark Theme
 
-### Reciter selection
+<p align="center">
+  <img src="media/screenshots/quran-audio-light.png" width="49%" alt="Quran audio - Light Theme">
+  <img src="media/screenshots/quran-audio-dark.png" width="49%" alt="Quran audio - Dark Theme">
+</p>
 
-The audio side of the Quran experience provides a reciter-selection flow before playback.
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
+</p>
+
+The audio flow provides reciter selection and a dedicated listening experience.
 
 ---
 
 # 🎧 Quran Audio Player
 
-The audio experience provides a dedicated player for Quran recitation.
+The dedicated Quran player provides the main controls needed for focused listening.
 
 <p align="center">
-  <img src="media/screenshots/11-quran-audio-player.png" width="100%" alt="Hisn Al-Muslim Quran audio player in two visual themes">
+  <img src="media/screenshots/11-quran-audio-player.png" width="100%" alt="Hisn Al-Muslim Quran audio player">
 </p>
 
 The player showcases:
@@ -105,22 +140,20 @@ The player showcases:
 - Previous / next controls
 - Skip controls
 - Playback mode options
-- Repeat / continuation controls
-- A focused listening experience
-
-The screenshots also demonstrate how the player adapts its visual presentation to different themes.
+- Repeat and continuation controls
+- A focused listening layout
 
 ---
 
-# 🕌 Prayer Times & Islamic Youtube Channel & Jami Dua
+# 🕌 Prayer & Islamic Content
 
-Prayer information is integrated into the daily experience rather than treated as an isolated utility.
+Prayer information is integrated into the daily experience alongside other Islamic content.
 
 <p align="center">
   <img src="media/screenshots/05-prayer-and-islamic-content.png" width="100%" alt="Prayer times and Islamic content">
 </p>
 
-The prayer experience presents:
+The prayer experience includes:
 
 - Fajr
 - Sunrise
@@ -133,29 +166,25 @@ The prayer experience presents:
 - Prayer progress
 - Location-aware prayer information
 
-The same visual set also demonstrates related Islamic content screens such as Names of Allah, scholar/channel content, and organized Islamic text.
+The same showcase also presents related Islamic experiences such as Names of Allah, Jami Dua, and other organized Islamic content.
 
 ---
 
-# 📿 Adhkar & Books of Hadith
+# 📿 Adhkar
 
-Hisn Al-Muslim includes dedicated experiences for everyday remembrance.
+Hisn Al-Muslim provides organized experiences for everyday remembrance.
 
 <p align="center">
-  <img src="media/screenshots/06-adhkar-and-hadith.png" width="100%" alt="Adhkar and Hadith screens">
+  <img src="media/screenshots/Azkar-DL.png" width="100%" alt="Adhkar - Light and Dark themes">
 </p>
 
-### Adhkar browsing
+The Adhkar experience supports:
 
-Users can search and browse organized remembrance content.
-
-### Adhkar reading
-
-Individual remembrance items are displayed in focused reading cards with actions such as sharing and copying.
-
-### Collections
-
-The interface also provides categorized collections so users can quickly reach the type of remembrance they need.
+- Browsing organized remembrance content
+- Searching for a specific Dhikr
+- Reading individual remembrance items
+- Copying and sharing content
+- Navigating categorized collections
 
 ---
 
@@ -164,33 +193,40 @@ The interface also provides categorized collections so users can quickly reach t
 The application includes a dedicated Hadith experience for browsing and reading Islamic narrations.
 
 <p align="center">
-  <img src="media/screenshots/Hadith.png" width="100%" alt="Islamic lectures and video experience">
+  <img src="media/screenshots/Hadith-DL.png" width="100%" alt="Hadith - Light and Dark themes">
 </p>
 
-
-The showcase screens demonstrate:
+The showcased experience includes:
 
 - Hadith browsing
 - Individual Hadith reading
-- Search / discovery
+- Search and discovery
 - Sharing and copying actions
 - Light and dark reading states
 
-The source project currently includes collections such as **Sahih Al-Bukhari, Sahih Muslim, Riyad As-Salihin, and Forty Hadith Al-Nawawi**.
+The source project includes collections such as **Sahih Al-Bukhari, Sahih Muslim, Riyad As-Salihin, and Forty Hadith Al-Nawawi**.
 
 ---
 
 # 📚 Islamic Lectures & Educational Content
 
-Hisn Al-Muslim also provides a content experience for Islamic lectures, lessons, and videos.
+The application provides an educational content experience for Islamic lectures, lessons, videos, channels, and playlists.
+
+### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/08-lectures-and-video.png" width="100%" alt="Islamic lectures and video experience">
+  <img src="media/screenshots/lectures-light.png" width="49%" alt="Islamic lectures - Light Theme">
+  <img src="media/screenshots/lectures-dark.png" width="49%" alt="Islamic lectures - Dark Theme">
+</p>
+
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
 </p>
 
 The screens demonstrate:
 
-- Featured / selected content
+- Featured and selected content
 - Islamic lectures
 - Video cards
 - Educational categories
@@ -199,66 +235,101 @@ The screens demonstrate:
 - YouTube-based video playback
 - Content progress and continuation
 
-The goal is to make Islamic educational material discoverable without taking the user away from the application's main experience.
-
 ---
 
-# 🕋 Qibla Experience
+# 🕋 Qibla
 
-The Qibla section provides a dedicated visual direction experience.
+The Qibla section provides a dedicated visual experience for discovering the direction of the Kaaba.
 
 <p align="center">
-  <img src="media/screenshots/09-qibla-and-progress.png" width="100%" alt="Qibla and progress screens">
+  <img src="media/screenshots/Qibla-DL.png" width="100%" alt="Qibla - Light and Dark themes">
 </p>
 
-The showcased screens demonstrate:
+The showcased experience demonstrates:
 
 - Qibla direction visualization
 - Direction and distance information
 - Location-aware presentation
 - Guided interaction
-- Additional Islamic progress/level states
+- Additional Islamic progress states
 
 ---
 
 # ⚙️ Settings & Personalization
 
-The Settings experience brings appearance and reminder preferences together.
+Settings bring appearance, reminders, and daily preferences together.
 
 <p align="center">
-  <img src="media/screenshots/10-settings-and-stories.png" width="100%" alt="Settings and Stories screens">
+  <img src="media/screenshots/Settings-DL.png" width="100%" alt="Settings - Light and Dark themes">
 </p>
 
-The interface demonstrates controls for areas such as:
+The interface demonstrates areas such as:
 
 - Light / dark appearance
 - Prayer-related preferences
 - Reminder settings
 - Quran Wird preferences
-- Adhkar reminders
+- Morning and evening Adhkar reminders
 - Notification preferences
+- Daily preferences
 
-The same showcase set also includes the **Stories of the Prophets** experience, with a browsable list and focused reading screen.
+The showcase also includes the **Stories of the Prophets** experience with a browsable list and focused reading screen.
 
 ---
 
-# 🤲 Additional Islamic Experiences
-
-The application contains several supporting experiences that complement the main Quran and prayer flows.
+# 📖 Stories of the Prophets
 
 <p align="center">
-  <img src="media/screenshots/07-home-and-daily-content.png" width="100%" alt="Home, Islamic categories and content">
+  <img src="media/screenshots/Stories-DL.png" width="100%" alt="Stories of the Prophets - Light and Dark themes">
 </p>
 
-These include organized access to:
+A dedicated reading experience for exploring Stories of the Prophets through an organized list and focused reading interface.
 
-- Islamic categories
-- Daily content
-- Duas
-- Adhkar
-- Islamic learning
-- Quran-related resources
-- Scholar and educational content
+---
+
+# 📿 Digital Tasbeeh
+
+<p align="center">
+  <img src="media/screenshots/Tasbeeh-DL.png" width="100%" alt="Digital Tasbeeh - Light and Dark themes">
+</p>
+
+A focused digital Tasbeeh experience designed for simple and convenient daily remembrance.
+
+---
+
+# 🤲 Jami Dua
+
+<p align="center">
+  <img src="media/screenshots/Jami-Dua-DL.png" width="100%" alt="Jami Dua - Light and Dark themes">
+</p>
+
+An organized space for accessing and reading Islamic supplications.
+
+---
+
+# ❓ Islamic Questions & Content
+
+### ☀️ Light Theme & 🌙 Dark Theme
+
+<p align="center">
+  <img src="media/screenshots/islamicq-light.png" width="49%" alt="Islamic Questions - Light Theme">
+  <img src="media/screenshots/islamicq-dark.png" width="49%" alt="Islamic Questions - Dark Theme">
+</p>
+
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
+</p>
+
+The application also provides organized Islamic questions and educational content as part of the broader learning experience.
+
+---
+
+# 🔔 Reminders & Daily Experience
+
+The application includes configurable reminders and daily preferences intended to help users keep frequently used Islamic routines accessible.
+
+Related settings and reminder interfaces are presented in the Settings showcase above.
 
 ---
 
@@ -266,16 +337,16 @@ These include organized access to:
 
 The application follows a calm, modern visual language built around:
 
-- Deep green / teal tones
+- Deep green and teal tones
 - Clean Arabic typography
 - Rounded cards and surfaces
 - Clear information hierarchy
-- Spacious reading layouts
+- Comfortable reading layouts
 - Light and dark themes
 - Consistent navigation patterns
-- Mobile-first interaction
+- Responsive, mobile-first interaction
 
-The showcase intentionally presents both light and dark states to demonstrate the visual system across themes.
+The showcase intentionally presents both themes where separate light/dark screens are available.
 
 ---
 
@@ -315,76 +386,73 @@ The production application is developed with an emphasis on:
 - Location-aware functionality
 - Platform-specific Android/iOS configuration
 
-This repository intentionally documents the **product and experience**, not the internal implementation.
+This repository intentionally documents the **product and user experience**, not the internal implementation.
+
 
 ---
+# 🏗️ Project Structure
 
-# 📦 Repository Scope
+Hisn Al-Muslim is a Flutter-based mobile application organized around
+feature-oriented modules and platform-specific configurations.
 
-This repository is intentionally limited to public showcase material:
+The following structure represents the architecture of the original
+production project. The production source code itself is maintained
+privately and is **not included in this public showcase repository**.
 
 ```text
-hisn-almuslim-showcase/
+hisn_almuslim/
 │
-├── README.md
-├── README_AR.md
-├── LICENSE
-├── SECURITY.md
-├── CHANGELOG.md
+├── android/
+│ 
+├── ios/
+│  
+├── web/
+│   
 │
-├── docs/
-│   └── PROJECT_OWNERSHIP.md
 │
-└── media/
-    ├── logo/
-    │   └── app-logo.png
-    │
-    └── screenshots/
-        ├── 00-grand-showcase.png
-        ├── 01-quran-audio-showcase.png
-        ├── 02-home-light-dark.png
-        ├── 03-home-experience.png
-        ├── 04-quran-experience.png
-        ├── 05-prayer-and-islamic-content.png
-        ├── 06-adhkar-and-hadith.png
-        ├── 07-home-and-daily-content.png
-        ├── 08-lectures-and-video.png
-        ├── 09-qibla-and-progress.png
-        ├── 10-settings-and-stories.png
-        └── 11-quran-audio-player.png
-```
+├── lib/
+│   │
+│   ├── core/
+│   │   
+│   │
+│   ├── features/
+│   │   │
+│   │   ├── adhan/
+│   │   ├── al_azkar/
+│   │   ├── asma_allah/
+│   │   ├── hadith/
+│   │   ├── hisn_al_muslim/
+│   │   ├── home/
+│   │   ├── islamic_quiz/
+│   │   ├── jami_dua/
+│   │   ├── lectures/
+│   │   ├── qibla/
+│   │   ├── quran/
+│   │   ├── quran_audio/
+│   │   ├── radio/
+│   │   ├── settings/
+│   │   ├── stories/
+│   │   └── tasbeeh/
+│   │
+│   └── main.dart
+│
+├── assets/
+│   ├── audio/
+│   ├── images/
+│   ├── json/
+│   |__ fonts/
+│
+├── test/
+│   └── Application tests
+│
+├── functions/
+│   └── Backend / Firebase functions
+│
+├── pubspec.yaml
+├── analysis_options.yaml
+├── firebase.json
+└── README.md
 
-### What is deliberately NOT included
-
-- ❌ Flutter source code
-- ❌ `lib/`
-- ❌ `android/`
-- ❌ `ios/`
-- ❌ Firebase configuration
-- ❌ Environment files
-- ❌ API keys
-- ❌ Service-account credentials
-- ❌ Production backend code
-- ❌ Private assets or development files
-
----
-
-# 🔐 Source Code & Usage
-
-The production source code of **Hisn Al-Muslim** is maintained separately and is not distributed through this repository.
-
-This public repository exists for:
-
-- Product presentation
-- Documentation
-- UI/UX showcase
-- Screenshots
-- Project information
-- Public release links
-
-**The source code, application implementation, and project assets are not licensed for reuse, redistribution, copying, or commercial use through this repository.**
-
-See [`LICENSE`](LICENSE) for the applicable terms.
 
 ---
 
@@ -392,13 +460,11 @@ See [`LICENSE`](LICENSE) for the applicable terms.
 
 **Hisn Al-Muslim** is an independently developed application maintained by **Omar Mohammed**.
 
-Copyright © 2026 Omar Mohammed. All rights reserved.
+**Copyright © 2026 Omar Mohammed. All rights reserved.**
 
 This repository is the official public showcase repository for the project.
 
-For the strongest public attribution, official distribution links and developer profiles should use the same project/developer identity when the application is released.
-
-See [`docs/PROJECT_OWNERSHIP.md`](docs/PROJECT_OWNERSHIP.md) for the ownership and attribution statement.
+For attribution and ownership details, see [`docs/PROJECT_OWNERSHIP.md`](docs/PROJECT_OWNERSHIP.md).
 
 ---
 
@@ -417,7 +483,7 @@ Official download links will be added here as each distribution channel becomes 
 
 # 🗺️ Project Status
 
-**Status:** Active Development
+**Status: Active Development**
 
 The application continues to evolve through UI improvements, feature refinement, content updates, and platform preparation.
 
@@ -427,7 +493,7 @@ The application continues to evolve through UI improvements, feature refinement,
 
 This showcase repository is **not an open-source software distribution**.
 
-Unless explicitly stated otherwise, all source code, branding, screenshots, visual assets, and project materials are protected and may not be reused or redistributed without permission.
+Unless explicitly stated otherwise, the source code, branding, screenshots, visual assets, and project materials are protected and may not be reused or redistributed without permission.
 
 See [`LICENSE`](LICENSE).
 
