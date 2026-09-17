@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+
+# Local/private files
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
