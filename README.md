@@ -463,9 +463,8 @@ Official download links will be added here as each distribution channel becomes 
 ### Android
 
 - **Google Play:** Coming soon
+- **App Store:** Coming soon
 - **Uptodown:** Coming soon
-
-> Only official project distribution links should be used when publishing or sharing the application.
 
 
 ---
