@@ -128,7 +128,6 @@ The audio flow provides reciter selection and a dedicated listening experience.
 The dedicated Quran player provides the main controls needed for focused listening.
 
 <p align="center">
-  <img src="media/screenshots/quran-audio-light.png" width="49%" alt="Quran audio - Light Theme">
   <img src="media/screenshots/quran-audio-dark.png" width="49%" alt="Quran audio - Dark Theme">
 </p>
 
