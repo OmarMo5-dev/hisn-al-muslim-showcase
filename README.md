@@ -128,7 +128,13 @@ The audio flow provides reciter selection and a dedicated listening experience.
 The dedicated Quran player provides the main controls needed for focused listening.
 
 <p align="center">
-  <img src="media/screenshots/11-quran-audio-player.png" width="100%" alt="Hisn Al-Muslim Quran audio player">
+  <img src="media/screenshots/quran-audio-light.png" width="100%" alt="Hisn Al-Muslim Quran audio player">
+  <img src="media/screenshots/quran-audio-dark.png" width="100%" alt="Hisn Al-Muslim Quran audio player">
+</p>
+
+<p align="center">
+  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Dark Theme</strong>
 </p>
 
 The player showcases:
@@ -149,7 +155,7 @@ The player showcases:
 Prayer information is integrated into the daily experience alongside other Islamic content.
 
 <p align="center">
-  <img src="media/screenshots/05-prayer-and-islamic-content.png" width="100%" alt="Prayer times and Islamic content">
+  <img src="media/screenshots/Adhan-DL.png" width="100%" alt="Prayer times and Islamic content">
 </p>
 
 The prayer experience includes:
