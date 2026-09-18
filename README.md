@@ -307,14 +307,10 @@ An organized space for accessing and reading Islamic supplications.
 ### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/islamicq-light.png" width="49%" alt="Islamic Questions - Light Theme">
-  <img src="media/screenshots/islamicq-dark.png" width="49%" alt="Islamic Questions - Dark Theme">
+  <img src="media/screenshots/islamicq-light.png" width="100%" alt="Islamic Questions - Light Theme">
+  <img src="media/screenshots/islamicq-dark.png" width="100%" alt="Islamic Questions - Dark Theme">
 </p>
 
-<p align="center">
-  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Dark Theme</strong>
-</p>
 
 The application also provides organized Islamic questions and educational content as part of the broader learning experience.
 
