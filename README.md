@@ -2,9 +2,9 @@
   <img src="media/logo/app-logo.png" width="128" alt="Hisn Al-Muslim logo">
 </p>
 
-<h1 align="center" style="border-bottom: none;">
-  Hisn Al-Muslim
-</h1>
+<p align="center">
+  <strong><font size="6">Hisn Al-Muslim</font></strong>
+</p>
 
 <p align="center">
   <strong>A modern Islamic companion application built with Flutter.</strong>
