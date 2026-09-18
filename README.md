@@ -65,14 +65,10 @@ The home screen brings important daily information and frequently used Islamic c
 ### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/home-light.png" width="49%" alt="Hisn Al-Muslim home screen - Light Theme">
-  <img src="media/screenshots/home-dark.png" width="49%" alt="Hisn Al-Muslim home screen - Dark Theme">
+  <img src="media/screenshots/home-light.png" width="100%" alt="Hisn Al-Muslim home screen - Light Theme">
+  <img src="media/screenshots/home-dark.png" width="100%" alt="Hisn Al-Muslim home screen - Dark Theme">
 </p>
 
-<p align="center">
-  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Dark Theme</strong>
-</p>
 
 The home experience can surface:
 
@@ -94,14 +90,10 @@ The Quran experience is built around reading, browsing, and listening, with dedi
 ### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/quran-reading-light.png" width="49%" alt="Quran reading - Light Theme">
-  <img src="media/screenshots/quran-reading-dark.png" width="49%" alt="Quran reading - Dark Theme">
+  <img src="media/screenshots/quran-reading-light.png" width="100%" alt="Quran reading - Light Theme">
+  <img src="media/screenshots/quran-reading-dark.png" width="100%" alt="Quran reading - Dark Theme">
 </p>
 
-<p align="center">
-  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Dark Theme</strong>
-</p>
 
 The reading experience focuses on clear Arabic text presentation, comfortable reading, navigation through verses, and interaction with Quran content.
 
@@ -110,13 +102,8 @@ The reading experience focuses on clear Arabic text presentation, comfortable re
 ### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/quran-audio-light.png" width="49%" alt="Quran audio - Light Theme">
-  <img src="media/screenshots/quran-audio-dark.png" width="49%" alt="Quran audio - Dark Theme">
-</p>
-
-<p align="center">
-  <strong>Light Theme</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Dark Theme</strong>
+  <img src="media/screenshots/quran-audio-light.png" width="100%" alt="Quran audio - Light Theme">
+  <img src="media/screenshots/quran-audio-dark.png" width="100%" alt="Quran audio - Dark Theme">
 </p>
 
 The audio flow provides reciter selection and a dedicated listening experience.
