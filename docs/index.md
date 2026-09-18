@@ -2,6 +2,7 @@
   <img src="media/logo/app-logo.png" width="138" alt="Hisn Al-Muslim logo">
 </p>
 
+
 # Privacy Policy — Hisn Al-Muslim | Islamic Companion
 
 **Last updated: September 18, 2026**
