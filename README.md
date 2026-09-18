@@ -1,4 +1,6 @@
-# Hisn Al-Muslim
+<p align="center">
+  <em>Hisn Al-Muslim</em>
+</p>
 
 <p align="center">
   <img src="media/logo/app-logo.png" width="128" alt="Hisn Al-Muslim logo">
