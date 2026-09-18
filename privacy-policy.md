@@ -79,7 +79,7 @@ Any updated version will be published on this page with a revised "Last updated"
 
 If you have questions, concerns, or requests regarding this Privacy Policy or the App, please contact:
 
-**Email:** omarmohamed.codes@gmail.com
+**Email:** [omarmohamed.codes@gmail.com](mailto:omarmohamed.codes@gmail.com)
 
 ## 12. About This Policy
 
