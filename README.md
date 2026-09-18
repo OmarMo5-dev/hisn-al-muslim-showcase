@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 28px;">
+  <strong style="font-size: 70px;">
     Hisn Al-Muslim
   </strong>
 </p>
