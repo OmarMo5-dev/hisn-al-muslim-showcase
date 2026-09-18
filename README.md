@@ -457,18 +457,6 @@ hisn_almuslim/
 
 ---
 
-# 👤 Project Ownership
-
-**Hisn Al-Muslim** is an independently developed application maintained by **Omar Mohammed**.
-
-**Copyright © 2026 Omar Mohammed. All rights reserved.**
-
-This repository is the official public showcase repository for the project.
-
-For attribution and ownership details, see [`docs/PROJECT_OWNERSHIP.md`](docs/PROJECT_OWNERSHIP.md).
-
----
-
 # 📲 Distribution
 
 Official download links will be added here as each distribution channel becomes available.
