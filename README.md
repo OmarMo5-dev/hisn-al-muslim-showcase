@@ -480,25 +480,9 @@ Official download links will be added here as each distribution channel becomes 
 
 > Only official project distribution links should be used when publishing or sharing the application.
 
----
-
-# 🗺️ Project Status
-
-**Status: Active Development**
-
-The application continues to evolve through UI improvements, feature refinement, content updates, and platform preparation.
 
 ---
 
-# 📄 License
-
-This showcase repository is **not an open-source software distribution**.
-
-Unless explicitly stated otherwise, the source code, branding, screenshots, visual assets, and project materials are protected and may not be reused or redistributed without permission.
-
-See [`LICENSE`](LICENSE).
-
----
 
 <p align="center">
   <img src="media/logo/app-logo.png" width="72" alt="Hisn Al-Muslim">
