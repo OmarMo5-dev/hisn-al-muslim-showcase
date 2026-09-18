@@ -1,9 +1,10 @@
 <p align="center">
   <img src="media/logo/app-logo.png" width="128" alt="Hisn Al-Muslim logo">
 </p>
-<h1 align="center">
-  Hisn Al-Muslim
-</h1>
+
+<p align="center">
+  <strong><big>Hisn Al-Muslim</big></strong>
+</p>
 
 <p align="center">
   <strong>A modern Islamic companion application built with Flutter.</strong>
