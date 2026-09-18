@@ -17,8 +17,8 @@
 ## 📱 App Preview
 
 <p align="center">
-  <img src="media/screenshots/app-preview-2.png" width="70%" alt="Hisn Al-Muslim app preview 2">
-  <img src="media/screenshots/app-preview-3.png" width="70%" alt="Hisn Al-Muslim app preview 3">
+  <img src="media/screenshots/app-preview-2.png" width="100%" alt="Hisn Al-Muslim app preview 2">
+  <img src="media/screenshots/app-preview-3.png" width="100%" alt="Hisn Al-Muslim app preview 3">
 </p>
 
 <p align="center">
