@@ -1,7 +1,6 @@
 <p align="center">
   <img src="media/logo/app-logo.png" width="128" alt="Hisn Al-Muslim logo">
 </p>
-
 <h1 align="center">
   Hisn Al-Muslim
 </h1>
