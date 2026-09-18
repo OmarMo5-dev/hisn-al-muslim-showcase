@@ -215,8 +215,8 @@ The application provides an educational content experience for Islamic lectures,
 ### ☀️ Light Theme & 🌙 Dark Theme
 
 <p align="center">
-  <img src="media/screenshots/lectures-light.png" width="49%" alt="Islamic lectures - Light Theme">
-  <img src="media/screenshots/lectures-dark.png" width="49%" alt="Islamic lectures - Dark Theme">
+  <img src="media/screenshots/lectures-light.png" width="70%" alt="Islamic lectures - Light Theme">
+  <img src="media/screenshots/lectures-dark.png" width="70%" alt="Islamic lectures - Dark Theme">
 </p>
 
 <p align="center">
