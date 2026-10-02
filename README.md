@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="YOUR_APP_LINK">
-    <img src="https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file" alt="Download on MediaFire">
+    <img src="[https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file](https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file)" alt="Download on MediaFire">
   </a>
 </p>
 
