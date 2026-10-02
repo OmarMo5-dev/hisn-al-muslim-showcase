@@ -18,11 +18,10 @@
 
 
 <p align="center">
-  <a href="YOUR_APP_LINK">
-    <img src="[https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file](https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file)" alt="Download on MediaFire">
+  <a href="https://www.mediafire.com/file/aj9cvdvqewrlwny/Hisn-Al-Muslim.apk/file">
+    <strong>📲 Download Hisn Al-Muslim APK</strong>
   </a>
 </p>
-
 
 ---
 
